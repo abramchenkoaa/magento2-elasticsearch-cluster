@@ -24,6 +24,8 @@ Please follow the instructions:
 
 Please follow the instructions:
 - Go to `Stores > Configuration > Catalog > Catalog > Catalog Search` and select `Elasticsearch 7 Cluster` as `Search Engine`
+  ![image](https://github.com/abramchenkoaa/magento2-elasticsearch-cluster/assets/3831358/693304e1-222e-413c-902c-b6fa968d88bc)
+
 - Add list of Elasticsearch cluster nodes in `Cluster Hosts` field
 - Test connection by clicking `Test Connection` button
 - Save configuration
