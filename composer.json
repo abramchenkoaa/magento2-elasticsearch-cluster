@@ -1,0 +1,29 @@
+{
+    "name": "labofgood/module-elasticsearch-cluster",
+    "description": "N/A",
+    "type": "magento2-module",
+    "require": {
+        "php": "^8.1",
+        "magento/framework": "103.0.*",
+        "magento/module-elasticsearch-7": "100.4.*"
+    },
+    "license": [
+        "BSD-3-Clause"
+    ],
+    "authors": [
+        {
+            "name": "Anton Abramchenko",
+            "homepage": "https://github.com/abramchenkoaa",
+            "email": "anton.abramchenko@labofgood.com",
+            "role": "Project Founder"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Labofgood\\ElasticsearchCluster\\": ""
+        }
+    }
+}
