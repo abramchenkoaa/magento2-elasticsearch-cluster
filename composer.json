@@ -1,6 +1,6 @@
 {
     "name": "labofgood/module-elasticsearch-cluster",
-    "description": "N/A",
+    "description": "the module enables managing Elasticsearch cluster connections from Magento 2 admin panel",
     "type": "magento2-module",
     "require": {
         "php": "^8.1",
